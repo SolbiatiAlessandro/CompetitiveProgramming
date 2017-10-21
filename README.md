@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/SuprDewd/CompetitiveProgramming.svg?branch=master)](https://travis-ci.org/SuprDewd/CompetitiveProgramming)
 
-This repository contains the notebook of team viRUs from Reykjavik University.
+[originally taken from: viRUs from Reykjavik University.]
+
+Politecnico di Milano - Alessandro Solbiati (ArdRocSol team)
 
 ## License
 MIT: see the [LICENSE](https://github.com/SuprDewd/CompetitiveProgramming/blob/master/LICENSE) file.
